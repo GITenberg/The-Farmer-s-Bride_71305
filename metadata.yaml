@@ -1,11 +1,16 @@
 _repo: The-Farmer-s-Bride_71305
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71305-h/images/cover.jpg
 creator:
   author:
     agent_name: Mew, Charlotte
     gutenberg_agent_id: '56165'
     url: http://www.gutenberg.org/2009/agents/56165
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71305#The-Farmer-s-Bride
 gutenberg_issued: '2023-07-30'
 identifiers:
   gutenberg: '71305'
